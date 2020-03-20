@@ -1,2 +1,0 @@
-# splashscreen
-Created with CodeSandbox
